@@ -1,0 +1,9 @@
+html {
+    background: url(http://i.imgur.com/zg8VYmI.jpg) no-repeat center fixed; 
+    background-size: cover;
+}
+
+p {
+  font-family: Arial;
+    font-size: 14px;
+}
