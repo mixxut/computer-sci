@@ -1,6 +1,7 @@
 html {
     background: url(http://i.imgur.com/zg8VYmI.jpg) no-repeat center fixed; 
     background-size: cover;
+
 }
 
 p {
@@ -8,6 +9,9 @@ p {
   font-size: 14px;
   color: White;
   text-align: center;
+  border: 25px ;
+  padding: 25px solid black;
+  margin: 25px solid black;
 }
 
 h1 {
