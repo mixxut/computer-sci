@@ -2,17 +2,11 @@ html {
     background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Clouds_over_the_Atlantic_Ocean.jpg/1200px-Clouds_over_the_Atlantic_Ocean.jpg) no-repeat center fixed; 
     background-size: cover;
 }
+body{
 
-p {
-  font-family: Arial;
-  font-size: 18px;
-  color: black;
-  text-align: center;
- <--background-color: black;
-  <--border: 25px black;
-  <--padding: 25px black;
-  <--margin: 25px  black;
+
 }
+
 
 h1 {
   font-family: Arial;
@@ -36,4 +30,16 @@ h1 {
   color: black;
   text-align: center;
 
+}
+
+p {
+  font-family: Arial;
+  font-size: 18px;
+  color: black;
+  text-indent: 50px;
+  text-align: center;
+ <--background-color: black;
+  <--border: 25px black;
+  <--padding: 25px black;
+  <--margin: 25px  black;
 }
