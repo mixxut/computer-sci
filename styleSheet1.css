@@ -3,7 +3,10 @@ html {
     background-size: cover;
 }
 body{
-
+background-color: black;
+border: 25px black;
+padding: 25px black;
+margin: 25px  black;
 
 }
 
