@@ -4,6 +4,7 @@ html {
 }
 body{
 background-color: black;
+opacity: .45;
 border: 25px black;
 padding: 25px black;
 margin: 25px  black;
@@ -15,6 +16,7 @@ h1 {
   font-family: Arial;
   font-size: 36px;
   color: black;
+  opacity: 1;
   text-align: center;
 
 }
@@ -23,6 +25,7 @@ h1 {
   font-family: Arial;
   font-size: 20px;
   color: black;
+  opacity: 1;
   text-align: center;
 
 }
@@ -31,6 +34,7 @@ h1 {
   font-family: Arial;
   font-size: 24px;
   color: black;
+  opacity: 1;
   text-align: center;
 
 }
@@ -39,6 +43,7 @@ p {
   font-family: Arial;
   font-size: 18px;
   color: black;
+  opacity: 1;
   text-indent: 50px;
   text-align: center;
  <--background-color: black;
