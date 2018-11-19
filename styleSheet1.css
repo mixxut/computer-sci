@@ -1,5 +1,5 @@
-/
- html {
+
+html {
  background: url(http://i.4cdn.org/wg/1541877623251.jpg) no-repeat center fixed; 
     background-size: cover;
 }
@@ -34,7 +34,7 @@ h1 {
 }
  
  h3 {
-  font-family:Verdana;
+  font-family: Arial;
   font-size: 24px;
   color: white;
   opacity: 1;
@@ -42,10 +42,9 @@ h1 {
 
 }
 
-
- h4 {
+h4 {
   font-family: Arial;
-  font-size: 24px;
+  font-size: 20px;
   color: white;
   opacity: 1;
   text-align: center;
@@ -66,22 +65,24 @@ p {
 } 
   
 .theJoysOfLinux {
-   background:url(https://ih1.redbubble.net/image.112605481.9243/flat,750x1000,075,t.jpg) no-repeat center fixed; 
+   background:url(http://i.imgur.com/tpusFHs.png) no-repeat center fixed; 
 
     margin: 30px;
-    padding: 30px;
+    padding: 145px;
 } 
 
 .theBestDesert{
-   background:url(https://ih1.redbubble.net/image.112605481.9243/flat,750x1000,075,t.jpg) no-repeat center fixed; 
+   background:url(https://texas-de-brazil-website.s3.amazonaws.com/s3_amazonaws_com/texas-de-brazil-website/menu/Desserts_7485b33d6281fd86ae5c0f9af4439236.jpg) no-repeat center fixed; 
 
     margin: 30px;
-    padding: 30px;
+    padding: 145px;
 } 
 
 .myFavoriteManga {
-   background:url(https://ih1.redbubble.net/image.112605481.9243/flat,750x1000,075,t.jpg) no-repeat center fixed; 
+   background:url(https://images-na.ssl-images-amazon.com/images/I/81VAgJoB3BL.jpg) no-repeat center fixed; 
 
     margin: 30px;
-    padding: 30px;
+    padding: 145px;
 } 
+  
+
