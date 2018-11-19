@@ -1,13 +1,7 @@
-////
+
 html {
- background: url(https://timedotcom.files.wordpress.com/2018/01/jupiter-juno-nasa.jpg?quality=85) no-repeat center fixed; 
+ background: url("https://timedotcom.files.wordpress.com/2018/01/jupiter-juno-nasa.jpg?quality=85") no-repeat center fixed; 
     background-size: cover;
-}
-
-
-body{
-
-
 }
 
 
@@ -59,21 +53,21 @@ p {
 } 
 
 .theJoysOfLinux {
-   background:url(http://i.imgur.com/tpusFHs.png) no-repeat center fixed; 
+   background:url("http://i.imgur.com/tpusFHs.png") no-repeat center fixed; 
 
     margin: 30px;
     padding: 145px;
 } 
 
 .theBestDesert{
-   background:url(https://www.classicprints.com.au/sites/default/files/dessert_tray.jpg) no-repeat center fixed; 
+   background:url("https://www.classicprints.com.au/sites/default/files/dessert_tray.jpg") no-repeat center fixed; 
 
     margin: 30px;
     padding: 145px;
 } 
 
 .myFavoriteManga {
-   background:url(https://images-na.ssl-images-amazon.com/images/I/81VAgJoB3BL.jpg) no-repeat center fixed; 
+   background:url("https://images-na.ssl-images-amazon.com/images/I/81VAgJoB3BL.jpg") no-repeat center fixed; 
 
     margin: 30px;
     padding: 145px;
