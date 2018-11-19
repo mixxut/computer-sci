@@ -1,4 +1,4 @@
-
+/
 html {
  background: url(http://i.4cdn.org/wg/1541877623251.jpg) no-repeat center fixed; 
     background-size: cover;
@@ -7,10 +7,6 @@ html {
 
 body{
 
-
-border: 25px white;
-padding: 25px white;
-margin: 25px  white;
 
 }
 
@@ -59,11 +55,9 @@ p {
   text-indent: 50px;
   text-align: center;
 
-  border: 25px ;
-  padding: 25px ;
-  margin: 25px ;
+
 } 
-  
+
 .theJoysOfLinux {
    background:url(http://i.imgur.com/tpusFHs.png) no-repeat center fixed; 
 
@@ -72,7 +66,7 @@ p {
 } 
 
 .theBestDesert{
-   background:url(https://texas-de-brazil-website.s3.amazonaws.com/s3_amazonaws_com/texas-de-brazil-website/menu/Desserts_7485b33d6281fd86ae5c0f9af4439236.jpg) no-repeat center fixed; 
+   background:url(https://www.classicprints.com.au/sites/default/files/dessert_tray.jpg) no-repeat center fixed; 
 
     margin: 30px;
     padding: 145px;
