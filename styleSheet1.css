@@ -1,28 +1,32 @@
-//
-html {
-    background: url(http://i.4cdn.org/wg/1541877623251.jpg) no-repeat center fixed; 
+
+ html {
+ background: url(http://i.4cdn.org/wg/1541877623251.jpg) no-repeat center fixed; 
     background-size: cover;
 }
+
+
 body{
+
+
 border: 25px white;
 padding: 25px white;
-margin: 25px white;
+margin: 25px  white;
 
 }
 
 
 h1 {
-  font-family: Arial;
-  font-size: 36px;
-  color: black;
+  font-family: Verdana;
+  font-size: 38px;
+  color: white;
   opacity: 1;
   text-align: center;
 
 }
  
  h2 {
-  font-family: Verdana;
-  font-size: 20px;
+  font-family:Verdana;
+  font-size: 10px;
   color: white;
   opacity: 1;
   text-align: center;
@@ -30,7 +34,17 @@ h1 {
 }
  
  h3 {
-  font-family: Verdana;
+  font-family:Verdana;
+  font-size: 24px;
+  color: white;
+  opacity: 1;
+  text-align: center;
+
+}
+
+
+ h4 {
+  font-family: Arial;
   font-size: 24px;
   color: white;
   opacity: 1;
@@ -45,4 +59,23 @@ p {
   opacity: 1;
   text-indent: 50px;
   text-align: center;
+
+  border: 25px ;
+  padding: 25px ;
+  margin: 25px ;
+} 
+  
+.theJoysOfLinux {
+   background:url(https://ih1.redbubble.net/image.112605481.9243/flat,750x1000,075,t.jpg) no-repeat center fixed; 
+    margin: 30px;
+    padding: 30px;
+} 
+
+
+  .cities {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
 }
+  
