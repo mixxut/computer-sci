@@ -6,9 +6,9 @@ html {
 body{
 background-color: black;
 background-opacity: .45;
-border: 25px black;
-padding: 25px black;
-margin: 25px  black;
+border: 25px white;
+padding: 25px white;
+margin: 25px white;
 
 }
 
@@ -25,7 +25,7 @@ h1 {
  h2 {
   font-family: Arial;
   font-size: 20px;
-  color: black;
+  color: white;
   opacity: 1;
   text-align: center;
 
@@ -34,7 +34,7 @@ h1 {
  h3 {
   font-family: Arial;
   font-size: 24px;
-  color: black;
+  color: white;
   opacity: 1;
   text-align: center;
 
@@ -43,7 +43,7 @@ h1 {
 p {
   font-family: Arial;
   font-size: 18px;
-  color: black;
+  color: white;
   opacity: 1;
   text-indent: 50px;
   text-align: center;
