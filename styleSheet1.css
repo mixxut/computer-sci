@@ -1,11 +1,9 @@
-/
+//
 html {
     background: url(http://i.4cdn.org/wg/1541877623251.jpg) no-repeat center fixed; 
     background-size: cover;
 }
 body{
-background-color: black;
-background-opacity: .45;
 border: 25px white;
 padding: 25px white;
 margin: 25px white;
