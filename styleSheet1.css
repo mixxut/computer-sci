@@ -7,13 +7,14 @@ html{
 .mainTitle{
 font-size: 30px;
 font-family: Lucida Console;
+text-align: left;
 
 }
 
 
 
 .subText{
-font-size: 8px;
+font-size: 6px;
 font-family: Verdena;
- 
+ text-align: left;
 }
