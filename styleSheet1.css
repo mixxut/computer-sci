@@ -1,11 +1,10 @@
 
 html{
- background: url("https://images.pexels.com/photos/531413/pexels-photo-531413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center fixed; 
-    background-size: cover;
+
 }
 
 .mainTitle{
-font-size: 30px;
+font-size: 46px;
 font-family: Lucida Console;
 text-align: left;
 
@@ -18,3 +17,9 @@ font-size: 6px;
 font-family: Verdena;
  text-align: left;
 }
+
+.mainPageLanding{
+ background: url("https://images.pexels.com/photos/531413/pexels-photo-531413.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center fixed; 
+    background-size: cover;
+}
+
