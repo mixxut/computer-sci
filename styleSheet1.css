@@ -13,14 +13,14 @@ indent: 70px;
 
 
 .subText{
-font-size: 6px;
+font-size: 10px;
 font-family: Verdena;
 text-align: left;
 indent: 70px;
 }
 
 .mainPageLanding{
- background: url("https://i.imgur.com/OLN9fVg.jpg") no-repeat center fixed; 
+ background: url(http://i.4cdn.org/wg/1543320054226.jpg) no-repeat center fixed; 
     background-size: cover;
 }
 
