@@ -27,8 +27,8 @@ indent: 1000px;
 }
 
 .mainPageLanding{
- 
- background-color: #fccc53;
+
+ background: #ffffff url("img_tree.png") no-repeat right top;
  Opacity: .9;
 }
 
